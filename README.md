@@ -152,9 +152,7 @@ print("Predicted Energy Savings:", energy[0], "kWh/year")
 print("Recommended Green Roof Type:", predicted_roof_type)  # Mapped to category name
 print("Predicted Carbon Sequestration:", carbon[0], "kg/year")
 
-git add requirements.txt
-git commit -m "Added requirements.txt"
-git push origin main
+
 
 
 
