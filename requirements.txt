@@ -26,6 +26,7 @@ defusedxml==0.7.1
 executing==2.0.1
 fastjsonschema==2.19.0
 Flask==3.1.0
+Flask
 fqdn==1.5.1
 idna==3.5
 ipykernel==6.26.0
