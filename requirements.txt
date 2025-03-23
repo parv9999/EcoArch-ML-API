@@ -1,4 +1,3 @@
-fpip>=23.0
 setuptools>=68.0
 wheel
 setuptools>=58.0.4
